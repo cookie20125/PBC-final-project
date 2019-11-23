@@ -3,4 +3,6 @@ import os
 
 test = "hello world"
 print(test)
+mark = "!!!"
+print(test + mark)
 os.system("pause")
