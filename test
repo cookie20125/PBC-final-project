@@ -1,2 +1,6 @@
+import os
+
+
 test = "hello world"
 print(test)
+os.system("pause")
